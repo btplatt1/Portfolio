@@ -1,9 +1,8 @@
 # Brennan's Portfolio
 
-# [Project 1: Analyzing Students' Mental Health](github.com)
+# [Project 1: Analyzing Students' Mental Health](https://app.datacamp.com/workspace/w/39022bcc-2cdd-4a1a-a8f9-abaa703b02e9/edit)
 
-This is a project I did for my Data Analyst in SQL Certification, where I use postgreSQL to understand the correlation between mental health decline and international students'.
+This is a simple project I did for my Data Analyst in SQL Certification, where I explore and analyze data to see how the length of stay impacts the average mental health diagnostic scores of the international students present in the study.
 
-* Data taken from students.csv dataset
-* This model uses grouping and sorting
-* 
+* Project explores 'students' dataset using PostgreSQL
+* Queries basic syntax, aggregates, filtering, sorting and grouping.
